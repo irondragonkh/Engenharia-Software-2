@@ -1,0 +1,29 @@
+Software
+-Criar ficha cliente
+-Criar ficha empregado
+-Login
+-Listar de Artigos:
+	-Varias peças do traje e extras
+	-Varios tamanhos das peças
+-Listar com os Cursos existentes
+-Listar com as escolas
+-Ficha de compra
+-Ficha de alterações(histórico de alteraçoes feitas)
+(Todos os artigos terão que ter um preço próprio)
+-Criação e eliminação de promoções(conjunto de artigos por um preço mais baixo ou artigos mais baratos)
+-Criação de impressao com as opçoes selecionadas
+
+
+
+entidades serão 2
+-Chefe
+-Empregado
+
+a unica diferença para ja que vao ter e que o chefe pode criar uma ficha de empregado e o empregado nao
+
+
+
+Questoes que se levantam.
+Trajes para todas as universidades, ou só as de Leiria?
+Quais são os artigos que tem e tamanhos?
+Quer dar um preçãrio aos artigos e as eventuais alteraçoes que possam vir a ser feitas?
