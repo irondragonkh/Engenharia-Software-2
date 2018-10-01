@@ -1,0 +1,10 @@
+Base de Dados nas escolas e cursos considerar:
+Fazer uma tabela de muitos para muitos ou duplicar registos
+exemplo: Existir dois registos da ESTG so que uma esta associada a chave estrangeira do IPL e outra a do IPG
+
+
+Perguntar a prof se ela acha que se tornaria maios facil fazer se fosse no modo data wharehouse
+
+Base de dados não criar ligaçoes entre escola e cliente porque visto que na criação de clientes será uma combobox 
+para inserir escola,curso,universidade não vejo a necessidade de ter que fazer uma ligação visto que 
+so vai dar para inserir valores que existem na tabela
