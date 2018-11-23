@@ -29,5 +29,13 @@ namespace GestaoTrajes
             label2.Text = DateTime.Now.ToLongTimeString();
             timer1.Start();
         }
+
+        private void criarClienteToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            Clientes.Criar criar = new Clientes.Criar();
+            criar.MdiParent = this;
+            criar.Show();
+            
+        }
     }
 }
